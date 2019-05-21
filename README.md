@@ -1,8 +1,11 @@
 MONTY HALL PROBLEM SIMULATOR
   
   Author: Joshua McMahan
+  
   Last Updated: 05/21/2019
+  
   Description: 
+  
     This program simulates the infamous "Monty Hall" game theory problem solved by vos Savant, as described below:
        
     1. Players are shown three (3) doors, two (2) of which hide a goat behind them, and one (1) which hides a car
